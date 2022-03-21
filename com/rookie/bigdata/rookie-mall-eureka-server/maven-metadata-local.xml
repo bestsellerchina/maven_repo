@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.rookie.bigdata</groupId>
+  <artifactId>rookie-mall-eureka-server</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210810061215</lastUpdated>
+  </versioning>
+</metadata>
