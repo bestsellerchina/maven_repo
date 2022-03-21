@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.taobao.top</groupId>
   <artifactId>taobao-sdk-java-auto</artifactId>
-  <version>1603954165353.20200916</version>
+  <version>1.0.0</version>
   <description>POM was created from install:install-file</description>
 </project>
