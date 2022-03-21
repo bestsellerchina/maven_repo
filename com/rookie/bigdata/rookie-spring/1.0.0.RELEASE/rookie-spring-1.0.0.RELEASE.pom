@@ -36,7 +36,11 @@
     </repositories>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.taobao.top</groupId>
+            <artifactId>taobao-sdk-java-auto</artifactId>
+            <version>1603954165353-20201029</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -51,6 +55,30 @@
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
+
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <configuration>
+                    <appendAssemblyId>false</appendAssemblyId>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                    <archive>
+                        <manifest>
+                        </manifest>
+                    </archive>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>make-assembly</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>assembly</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
             <!--maven发布插件-->
             <plugin>
                 <artifactId>maven-deploy-plugin</artifactId>
