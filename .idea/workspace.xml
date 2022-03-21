@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e512db7-8bef-4f3e-ac38-7aca980463d8" name="Default Changelist" comment="init" />
+    <list default="true" id="7e512db7-8bef-4f3e-ac38-7aca980463d8" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/1.0.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/1.0.0/taobao-sdk-java-auto-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/1.0.0/taobao-sdk-java-auto-1.0.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/5.2.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/5.2.1/taobao-sdk-java-5.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/5.2.1/taobao-sdk-java-5.2.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/maven-metadata-local.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +58,19 @@
       <recent name="C:\work\maven_repo\com\taobao\top.taobao-sdk-java-auto" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\liuxili\AppData\Roaming\Subversion</configuration>
@@ -63,6 +86,8 @@
       <workItem from="1647853197056" duration="518000" />
       <workItem from="1647855935629" duration="25000" />
       <workItem from="1647855987186" duration="14000" />
+      <workItem from="1647856073976" duration="151000" />
+      <workItem from="1647856237228" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1647834524472</created>
