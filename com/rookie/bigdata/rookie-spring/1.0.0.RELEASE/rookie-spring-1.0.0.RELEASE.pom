@@ -5,7 +5,7 @@
 
     <groupId>com.rookie.bigdata</groupId>
     <artifactId>rookie-spring</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0.RELEASE</version>
     <name>rookie-spring</name>
     <description>Demo project for Spring Boot</description>
 
@@ -14,31 +14,24 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <distributionManagement.directory.name>github-maven</distributionManagement.directory.name>
+        <!--代表在当前项目的target目录下的github目录下-->
+        <distributionManagement.directory.name>github</distributionManagement.directory.name>
 
     </properties>
 
     <distributionManagement>
         <repository>
-            <id>hlj-managemaent-Id</id>
-            <name>hlj managemaent name</name>
+            <id>rookie-releases</id>
+            <name>RookieNexus Release Repository</name>
             <url>file://${project.build.directory}/${distributionManagement.directory.name}</url>
         </repository>
     </distributionManagement>
-<!--    <repositories>
-        <repository>
-            &lt;!&ndash;id任意&ndash;&gt;
-            <id>hlj-maven</id>
-            <url>https://raw.github.com/HealerJean123/maven_github/master/hlj-test-github-maven</url>
-        </repository>
-    </repositories>-->
 
     <repositories>
         <repository>
-            <id>baymax-releases</id>
-            <name>Nexus Release Repository</name>
+            <id>rookie-releases</id>
+            <name>RookieNexus Release Repository</name>
             <url>https://raw.github.com/bestsellerchina/maven_repo/main</url>
-
         </repository>
     </repositories>
 
@@ -58,13 +51,6 @@
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
-
-
-<!--            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>-->
-
             <!--maven发布插件-->
             <plugin>
                 <artifactId>maven-deploy-plugin</artifactId>
