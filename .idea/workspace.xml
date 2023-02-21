@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e512db7-8bef-4f3e-ac38-7aca980463d8" name="Default Changelist" comment="init">
+    <list default="true" id="7e512db7-8bef-4f3e-ac38-7aca980463d8" name="Default Changelist" comment="vip 上传">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/1.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/1.0.0/taobao-sdk-java-auto-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/1.0.0/taobao-sdk-java-auto-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java-auto/taobao-sdk-java-auto/maven-metadata-local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/5.2.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/5.2.1/taobao-sdk-java-5.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/5.2.1/taobao-sdk-java-5.2.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao-sdk-java/taobao-sdk-java/maven-metadata-local.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +80,8 @@
       <workItem from="1647855987186" duration="14000" />
       <workItem from="1647856073976" duration="151000" />
       <workItem from="1647856237228" duration="301000" />
+      <workItem from="1670210033426" duration="1333000" />
+      <workItem from="1676948817281" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1647834524472</created>
@@ -194,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647852657680</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="vip 上传">
+      <created>1670210071739</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670210071739</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="vip 上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="vip 上传" />
   </component>
 </project>
