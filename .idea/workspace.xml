@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e512db7-8bef-4f3e-ac38-7aca980463d8" name="Default Changelist" comment="抖音sdk">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e512db7-8bef-4f3e-ac38-7aca980463d8" name="Default Changelist" comment="抖音sdk修改地址为海外加速地址" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +31,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="26g9gX19Sgv3cf8Dyg1SyFY3oZh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,11 +47,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/IdeaProjects/CRM/cdp/maven_repo/com"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\CRM\cdp\maven_repo\com" />
       <recent name="C:\work\maven_repo\com\rookie\bigdata" />
       <recent name="C:\work\maven_repo" />
       <recent name="C:\work\maven_repo\com\taobao\top.taobao-sdk-java-auto" />
@@ -212,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742784741727</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="抖音sdk修改地址为海外加速地址">
+      <option name="closed" value="true" />
+      <created>1742807138909</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742807138909</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,11 +229,37 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="OPEN_GENERIC_TABS">
       <map>
+        <entry key="8aa74f12-886d-4bb0-a3fd-5b34139191dd" value="TOOL_WINDOW" />
         <entry key="8eaaa4b2-b2af-4000-8121-7a40b1e27105" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="8aa74f12-886d-4bb0-a3fd-5b34139191dd">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
         <entry key="8eaaa4b2-b2af-4000-8121-7a40b1e27105">
           <value>
             <State>
@@ -264,6 +298,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="vip 上传" />
     <MESSAGE value="抖音sdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="抖音sdk" />
+    <MESSAGE value="抖音sdk修改地址为海外加速地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="抖音sdk修改地址为海外加速地址" />
   </component>
 </project>
